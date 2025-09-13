@@ -1,5 +1,7 @@
 ### Hello there! <⚡>
 
-I'm an IT nerd who loves Azure and .NET, always interested in learning something new. When I'm not writing code or exploring serverless tech I enjoy slaying virtual dragons with my friends.
+I'm an IT nerd who loves Azure and .NET, always interested in learning something new.
 
-I write potentially educational things about my endeavours in tech on [my blog PipeHow](https://pipe.how/).
+I'm a public speaker, and love a good deepdive into an interest cloud-related topic.
+
+I write potentially educational things about my endeavours in tech on [my blog pipe.how](https://pipe.how/).
